@@ -103,4 +103,5 @@ yEd loads and saves diagrams from/to GraphML, an XML-based format. The applicati
 
 ====
 **References:** The declaration texts are not from me, they're copied from Wikipedia or the official websites. All rights are by the rightful Owners.
+
 **Rights:** Feel free to fork/copy from this collection, but dont forget to reference to the owners.
