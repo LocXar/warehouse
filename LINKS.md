@@ -21,7 +21,7 @@ GitFlow is a branching model for Git, created by Vincent Driessen. It has attrac
 
 1. Home: http://nvie.com/posts/a-successful-git-branching-model/
 2. Cheat-Sheet: http://danielkummer.github.io/git-flow-cheatsheet/
- 
+
 ## Programs
 Here you will find a growing list of programs, that are in my opinion usefull.
 
@@ -101,5 +101,5 @@ yEd loads and saves diagrams from/to GraphML, an XML-based format. The applicati
 1. Home: https://www.yworks.com/products/yed
 
 
-
-**Quellen:** The declaration texts are not from me, they're copied from Wikipedia or the official websites.
+====
+**References:** The declaration texts are not from me, they're copied from Wikipedia or the official websites. All rights are by the rightful Owners.
