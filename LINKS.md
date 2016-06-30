@@ -10,10 +10,11 @@ Here you will find good categorized information sources.
 ### Continuous Integration
 1. Good list of Best Practices: http://electric-cloud.com/plugins/continuous-integration/
 
+
 ## Programs
 ### Eclipse
 1. Home: https://eclipse.org/
-2. Documentation: 
+2. Documentation: http://help.eclipse.org/neon/index.jsp 
 
 ### Git
 1. Git Documentation: https://git-scm.com/documentation
